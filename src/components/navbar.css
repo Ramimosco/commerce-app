@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    background-color: bisque;
+    color: black;
+    height: 90px;
+    border-bottom: 1px solid black;
+    align-items: center;
+    justify-content: space-around;
+}
+.logo{
+    font-size: 1.6rem;
+    font-weight: bolder;
+}
+.listItems{ 
+    display: flex;
+}
+.listItems li{
+    padding:2rem;
+}
