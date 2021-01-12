@@ -1,19 +1,22 @@
 .navbar{
     display: flex;
+
     background-color: bisque;
     color: black;
     height: 90px;
     border-bottom: 1px solid black;
     align-items: center;
-    justify-content: space-around;
+    justify-content:space-between;
 }
 .logo{
     font-size: 1.6rem;
     font-weight: bolder;
+    margin-left: 3rem;
 }
 .listItems{ 
     display: flex;
+    margin-right: 2rem;
 }
 .listItems li{
-    padding-left:2rem;
+    padding-left:3rem;
 }

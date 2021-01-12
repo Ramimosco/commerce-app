@@ -10,7 +10,7 @@ body{
   padding: 0;
 
 }
-ul,a{
+a,li{
 list-style: none;
 text-decoration: none;
 color: black;

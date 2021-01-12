@@ -12,7 +12,6 @@ const NavBar = () =>{
                 <li><a href="#">item2</a></li>
                 <li><a href="#">item3</a></li>
                 <li><a href="#">CART</a></li>
-                
             </ul>
         </div>
     )
