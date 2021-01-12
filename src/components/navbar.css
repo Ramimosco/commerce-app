@@ -15,7 +15,7 @@
 }
 .listItems{ 
     display: flex;
-    margin-right: 2rem;
+    margin-right: 3rem;
 }
 .listItems li{
     padding-left:3rem;
